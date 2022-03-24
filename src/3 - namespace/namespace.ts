@@ -6,5 +6,5 @@ namespace MeNomeSpace {
   }
 }
 
-const a = new MeNomeSpace.PessoaDoNamespace("luiz");
-console.log(a);
+const pessoaDoNameSpace = new MeNomeSpace.PessoaDoNamespace("luiz");
+console.log(pessoaDoNameSpace);
