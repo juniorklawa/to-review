@@ -21,7 +21,7 @@
 // NULL
 // Represents lack of existence (you can set a varible to this)
 
-// Booleam
+// Boolean
 // true or false
 
 // Number
